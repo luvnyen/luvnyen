@@ -6,7 +6,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ## Hi there, Calvert here! 👋
 
-🎓 Currently a 3rd year Computer Science Student at Petra Christian University, and<br>
+🎓 Currently a 3rd year Computer Science Student at Petra Christian University, and–<br>
 🧑‍💻 Full Stack Developer Specialist Intern at Sagara Technology<br>
 💪 Passionate full-stack developer with background in Software/Web Development, Mobile Development, and Cloud Computing<br>
 🎯 Experienced in creating large-scale platforms for university events (1000+ participants) as well as for university students (600+ students)<br>
