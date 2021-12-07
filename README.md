@@ -1,5 +1,5 @@
 <!--
-Here are some links that might be useful for you, fellow README.md inspector :)
+Here are some links that might be useful for you, fellow README.md inspector 😊
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
