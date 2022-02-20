@@ -12,7 +12,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ## Project highlights 💡
 ✨ [RE-ACH – Petra Christian University Student Executive Board](https://photos.app.goo.gl/aJ8o7x3JD4fjKtbf9)<br>
-✨ [Rally Games – Bridge Competition 2021](https://photos.app.goo.gl/P2FXniCs8EnxMoxe8)<br>
+✨ [CareXpert](https://github.com/luvnyen/CareXpert)<br>
 ✨ ...and many more!
 
 ## Reach me out 📫
