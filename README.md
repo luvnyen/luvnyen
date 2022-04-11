@@ -7,7 +7,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 ## Hi there, Calvert here! 👋
 
 🎓 Currently a 3rd-year Computer Science student at Petra Christian University, and–<br>
-🧑‍💻 Back End Developer Intern at [LingoTalk](https://lingotalk.co/)<br>
+🧑‍💻 Software Engineer Intern at [SIRCLO](https://www.sirclo.com/home/)<br>
 💪 Passionate full-stack developer with background in Software/Web Development, Mobile Development, and Cloud Computing<br>
 
 ## Project highlights 💡
