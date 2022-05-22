@@ -10,7 +10,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 🧑‍💻 Software Engineer Intern at [SIRCLO](https://www.sirclo.com/home/)<br>
 💪 Passionate full-stack developer with background in Software/Web Development, Mobile Development, and Cloud Computing<br>
 
-## Project highlights 💡
+## [University] Project highlights 💡
 ✨ [RE-ACH – Petra Christian University Student Executive Board](https://photos.app.goo.gl/aJ8o7x3JD4fjKtbf9)<br>
 ✨ [Rally Games – Bridge Competition 2021](https://photos.app.goo.gl/P2FXniCs8EnxMoxe8)<br>
 ✨ [CareXpert](https://github.com/luvnyen/CareXpert)<br>
