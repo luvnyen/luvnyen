@@ -12,9 +12,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ## [University] Project highlights 💡
 ✨ [RE-ACH – Petra Christian University Student Executive Board](https://photos.app.goo.gl/aJ8o7x3JD4fjKtbf9)<br>
-✨ [Rally Games – Bridge Competition 2021](https://photos.app.goo.gl/P2FXniCs8EnxMoxe8)<br>
-✨ [CareXpert](https://github.com/luvnyen/CareXpert)<br>
-✨ ...and many more!
+✨ [Pantra (Panitia Petra) – Sistem Informasi Acara Kepanitiaan UK Petra](https://github.com/luvnyen/Pantra)<br>
+✨ [Service Oriented Architecture Personal Assignments](https://github.com/luvnyen/Pantra)<br>
+✨ ...and many more! (see my repositories) 😉
 
 ## Reach me out 📫
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/calvert-tanudihardjo/)
