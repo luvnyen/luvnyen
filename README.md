@@ -13,7 +13,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 ## [University] Project highlights 💡
 ✨ [RE-ACH – Petra Christian University Student Executive Board](https://photos.app.goo.gl/aJ8o7x3JD4fjKtbf9)<br>
 ✨ [Pantra (Panitia Petra) – Sistem Informasi Acara Kepanitiaan UK Petra](https://github.com/luvnyen/Pantra)<br>
-✨ [Service Oriented Architecture Personal Assignments](https://github.com/luvnyen/Pantra)<br>
+✨ [Service Oriented Architecture Personal Assignments](https://github.com/Service-Oriented-Architecture-Tasks)<br>
 ✨ ...and many more! (see my repositories) 😉
 
 ## Reach me out 📫
