@@ -6,8 +6,8 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ## Hi there, Calvert here! 👋
 
-🎓 Currently a 3rd-year Computer Science student at Petra Christian University, and–<br>
-🧑‍💻 Software Engineer Intern at [SIRCLO](https://www.sirclo.com/home/)<br>
+🎓 Final year Computer Science student at Petra Christian University, and–<br>
+🧑‍💻 Software Engineer Intern at [Tokopedia](https://www.tokopedia.com/about/)<br>
 💪 Passionate full-stack developer with background in Software/Web Development, Mobile Development, and Cloud Computing<br>
 
 ## [University] Project highlights 💡
