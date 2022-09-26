@@ -6,9 +6,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ## Hi there, Calvert here! 👋
 
-🎓 Final year Informatics student at Petra Christian University, and–<br>
+🎓 Final year Informatics student at Petra Christian University<br>
 🧑‍💻 Software Engineer Intern at [Tokopedia](https://www.tokopedia.com/about/)<br>
-💪 Passionate full-stack developer with background in Software/Web Development, Mobile Development, and Cloud Computing<br>
+🍔 Full-time eater and part-time software engineer<br>
 
 ## [University] Project highlights 💡
 ✨ [RE-ACH – Petra Christian University Student Executive Board](https://photos.app.goo.gl/aJ8o7x3JD4fjKtbf9)<br>
