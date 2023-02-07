@@ -7,7 +7,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 ## Hi there, Calvert here! 👋
 
 🎓 Final year Informatics student at Petra Christian University<br>
-🧑‍💻 Software Engineer Intern at [Tokopedia](https://www.tokopedia.com/about/)<br>
+🧑‍💻 Prev. Software Engineer Intern at [Tokopedia](https://www.tokopedia.com/about/), [SIRCLO](https://sirclo.id/), [LingoTalk](https://www.instagram.com/lingotalk/?hl=en), and [Sagara Technology](https://sagaratechnology.com/en)<br>
 🍔 Full-time eater and part-time software engineer<br>
 
 ## [University] Project highlights 💡
