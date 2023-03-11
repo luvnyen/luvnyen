@@ -17,7 +17,4 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 <br>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luvnyen&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvnyen&layout=compact&theme=dark">
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luvnyen&theme=elegant"/>
