@@ -5,7 +5,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
 ## Hi there, Calvert here! 👋
-🍔 Full-time eater and part-time software engineer<br>
 🧑‍💻 Prev. SWE Intern at [Tokopedia](https://www.tokopedia.com/about/) & [SIRCLO](https://sirclo.id/)
 
 ## Once upon a time at uni-
